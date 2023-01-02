@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "category": "komputery",
+        "name": "DELL G15",
+        "description": "Model 5515-3537 15.6\" R5-5600H 16GB RAM 512GB SSD GeForce RTX3050 Windows 11 Home",
+        "normal_price": 4949.0,
+        "promo_price": 3949.0,
+        "stock_limit": -1,
+        "image": "/uploads/images/Laptop-DELL-G5-5515-46.jpg"
+    },
+    {
+        "id": 2,
+        "category": "komputery",
+        "name": "MSI Katana GF76",
+        "description": "Model 11UD-684PL 17.3\" IPS 144Hz i7-11800H 16GB RAM 512GB SSD GeForce RTX3050Ti Windows 11 Home",
+        "normal_price": 6649.0,
+        "promo_price": -1.0,
+        "stock_limit": -1,
+        "image": "/uploads/images/Laptop-MSI-Katana-GF76.jpg"
+    },
+    {
+        "id": 3,
+        "category": "komputery",
+        "name": "ASUS ROG Zephyrus M16",
+        "description": "Model GU603HE-KR031T 16\" IPS 144Hz i7-11800H 16GB RAM 1TB SSD GeForce RTX3050Ti Windows 10 Home",
+        "normal_price": 8799.0,
+        "promo_price": 7799.0,
+        "stock_limit": 1,
+        "image": "/uploads/images/Laptop-ASUS-RoG-Zephyrus-M16.jpg"
+    },
+    {
+        "id": 4,
+        "category": "smartfony",
+        "name": "SAMSUNG Galaxy A53",
+        "description": "Pamięć 6/128GB 5G 6.5\" 120Hz Czarny SM-A536",
+        "normal_price": 2099.0,
+        "promo_price": 1799.0,
+        "stock_limit": 5,
+        "image": "/uploads/images/Smartfon-SAMSUNG-Galaxy-A53.jpg"
+    },
+    {
+        "id": 5,
+        "category": "smartfony",
+        "name": "APPLE iPhone 14 Plus ",
+        "description": "Pamięć 128GB 5G 6.7\" Północ",
+        "normal_price": 5899.0,
+        "promo_price": 5699.0,
+        "stock_limit": 2,
+        "image": "/uploads/images/Smartfon-APPLE-14-Plus.jpg"
+    },
+    {
+        "id": 6,
+        "category": "smartfony",
+        "name": "XIAOMI Redmi Note 11s",
+        "description": "Pamięć 6/64GB 6.43\" 90Hz Grafitowy",
+        "normal_price": 1349.0,
+        "promo_price": 1049.0,
+        "stock_limit": -1,
+        "image": "/uploads/images/Smartfon-XIAOMI-Redmi-Note-11sl.jpg"
+    },
+    {
+        "id": 7,
+        "category": "deskorolki elektryczne",
+        "name": "LEXGO Mirage 6.5 cala",
+        "description": "Deskorolka elektryczna LEXGO Mirage 6.5 cala Szary",
+        "normal_price": 899.99,
+        "promo_price": 799.99,
+        "stock_limit": -1,
+        "image": "/uploads/images/deskorolka__466522.jpg"
+    },
+    {
+        "id": 8,
+        "category": "drony profesjonalne",
+        "name": "DJI Mini 3 Fly More",
+        "description": "Dron DJI Mini 3 Fly More Combo (DJI RC)",
+        "normal_price": 4699.0,
+        "promo_price": -1.0,
+        "stock_limit": 3,
+        "image": "/uploads/images/Dron-DJI-Mini-3-RC-front.jpg"
+    },
+    {
+        "id": 9,
+        "category": "smartwatche",
+        "name": "APPLE Watch Ultra",
+        "description": "APPLE Watch Ultra GPS + Cellular 49mm koperta tytanowa + opaska Alpine rozmiar L (pomarańczowy)",
+        "normal_price": 4799.0,
+        "promo_price": 4599.0,
+        "stock_limit": 10,
+        "image": "/uploads/images/Smartwatch-APPLE-Ultra-Tytan-Alpine-Pomaranczowy-1.jpg"
+    }
+
+]

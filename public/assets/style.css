@@ -1,0 +1,39 @@
+.ProductTileImage {
+    object-fit: contain;
+}
+
+.promo-tag {
+    top: 0 !important;
+    left: 100% !important;
+    transform: translate(-80%, -90%) !important;
+    font-size: 0.55em;
+}
+
+.cart-image {
+    width: 90px;
+    height: 90px;
+    object-fit: contain;
+}
+
+.shoppingCartFooter {
+    position: sticky;
+    bottom: 0;
+}
+
+.btn-group-xs>.btn, .btn-xs {
+    --bs-btn-padding-y: 0.05rem;
+    --bs-btn-padding-x: 0.05rem;
+    --bs-btn-font-size: 0.1rem;
+    --bs-btn-border-radius: 0.25rem;
+}
+
+.filter-menu-button {
+    padding: 0 23px 10px; 
+    margin: 0;
+    transform: rotate(-90deg) translate(-50%, 0);
+    position:fixed;
+    top: 50%;
+    left: -20px;
+    cursor: pointer;
+    z-index: 5;
+}
