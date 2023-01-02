@@ -16,7 +16,7 @@ function Navbar() {
             <Nav.Link as={NavLink} to="/sklep">
                 Sklep
             </Nav.Link>
-            <Nav.Link as={NavLink} to="/omnie">
+            <Nav.Link as={NavLink} to="/o-mnie">
                 O mnie
             </Nav.Link>
         </Nav>
